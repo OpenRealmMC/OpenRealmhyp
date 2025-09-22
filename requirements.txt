@@ -1,4 +1,1 @@
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-pydantic==2.5.0
-psutil==5.9.6
+pip install --prefer-binary fastapi==0.104.1 uvicorn[standard]==0.24.0 pydantic==2.11.9 psutil==5.9.6 --break-system-packages
